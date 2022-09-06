@@ -1,2 +1,2 @@
 # simple_shell
-A simple shell project
+A simple shell project.
