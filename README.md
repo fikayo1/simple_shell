@@ -1,2 +1,4 @@
 # simple_shell
-A simple shell project
+This is a collaborative project by Fikayo and Michael to create simple linux shell.
+
+
