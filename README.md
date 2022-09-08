@@ -1,8 +1,6 @@
 # simple_shell
 
-.
-
-<<<<<<< HEAD
+<<<<<< HEAD
 A simple shell project.
 
 =======
