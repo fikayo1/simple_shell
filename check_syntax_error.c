@@ -123,4 +123,4 @@ void print_syntax_error(data_shell *datash, char *input, int i, int bool)
 	msg2 = ": Syntax error: \"";
 	msg3 = "\" unexpected\n";
 	counter = aux_itoa(datash->counter);
-
+}
